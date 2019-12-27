@@ -1,0 +1,34 @@
+body{
+  background: #F4F6F6 !important;
+}
+
+div.ui.container{
+  margin-top: 50px;
+}
+
+h2.ui.header.head{
+  margin-bottom: 30px;
+}
+
+div.ui.center.aligned.segment{
+  padding: 50px;
+}
+
+h3.ui.header.topic{
+  margin-bottom: 50px;
+}
+
+h1.ui.header.value{
+  display: inline;
+  font-size: 70px;
+}
+
+div.display-value{
+  display: inline;
+}
+
+div.ui.header.temperature{
+  display: inline;
+  font-size: 50px;
+  margin-left: 20px;
+}
